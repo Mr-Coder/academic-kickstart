@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Phd candidate of Artificial Education Technology
+role: Phd candidate of  Educational Artificial Technology
 
 # Organizations/Affiliations
 organizations:

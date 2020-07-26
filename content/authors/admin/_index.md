@@ -56,9 +56,9 @@ social:
 #  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: files/cv.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -69,5 +69,3 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-Hao Meng is a Ph.D. candidate of Educational Artificial Technology at the Central China Normal University(CCNU) National Engineering Research Center for E-Learning (NERCEL). His research interests include in Intelligent Tutoring System and Technology Enhanced Learning, including Automated problem solver，Problem understanding,etc. He Follows the Automated solver group, which develops Math word problem tools, systems,and educational robots.

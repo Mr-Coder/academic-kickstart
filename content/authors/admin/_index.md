@@ -23,7 +23,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Artificial Intelligence
 - Intelligent Tutoring 
-- Automated problem solver
+- Automated Problem Solver
 
 education:
   courses:

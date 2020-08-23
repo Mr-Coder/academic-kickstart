@@ -73,5 +73,5 @@ user_groups:
 - Visitors
 ---
 
-- Hao Meng is a Ph.D. candidate of Educational Artificial Technology at the Central China Normal University(CCNU) National Engineering Research Center for E-Learning (NERCEL). His research interests include in Intelligent Tutoring System and Technology Enhanced Learning,  Automated Problem Solver，Problem understanding,etc. 
+- Hao Meng is a Ph.D. candidate of Educational Artificial Technology at the Central China Normal University(CCNU) National Engineering Research Center for E-Learning (NERCEL). His research interests include in Intelligent Tutoring System and Technology Enhanced Learning,  Automated Problem Solver，Problem Understanding,etc. 
 - He follows the automated solver group, which develops math word problem systems,and educational robots.

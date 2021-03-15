@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Educational Technology
     institution: Central China Normal University
-    year: 2022
+    year: 2023
   - course: MEng in Computer science and Technology
     institution: Central China Normal University and University of Wollogong 
     year: 2019
